@@ -28,9 +28,9 @@ function App() {
                     <Row className="mt-4">
                         <Col md={4}>
                             <Card>
-                                <Card.Img variant="top" src="https://via.placeholder.com/150" />
+                                <Card.Img variant="top" src="https://plus.unsplash.com/premium_photo-1661873673782-88b30e6abef4?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                                 <Card.Body>
-                                    <Card.Title>Card One</Card.Title>
+                                    <Card.Title>Tokyo</Card.Title>
                                     <Card.Text>
                                         This is a short description for the first card.
                                     </Card.Text>
@@ -40,9 +40,9 @@ function App() {
 
                         <Col md={4}>
                             <Card>
-                                <Card.Img variant="top" src="https://via.placeholder.com/150" />
+                                <Card.Img variant="top" src="https://images.unsplash.com/photo-1708768618003-bf4009f43ddc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                                 <Card.Body>
-                                    <Card.Title>Card Two</Card.Title>
+                                    <Card.Title>Time Square</Card.Title>
                                     <Card.Text>
                                         This is a short description for the second card.
                                     </Card.Text>
@@ -52,9 +52,9 @@ function App() {
 
                         <Col md={4}>
                             <Card>
-                                <Card.Img variant="top" src="https://via.placeholder.com/150" />
+                                <Card.Img variant="top" src="https://images.unsplash.com/photo-1556901600-3e1be0aa443e?q=80&w=1352&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                                 <Card.Body>
-                                    <Card.Title>Card Three</Card.Title>
+                                    <Card.Title>Sidi Bousaid</Card.Title>
                                     <Card.Text>
                                         This is a short description for the third card.
                                     </Card.Text>
